@@ -3,7 +3,7 @@ train_file: ['/content/drive/MyDrive/vqa-rad-dataset/trainset.json']
 test_file: ['/content/drive/MyDrive/vqa-rad-dataset/testset.json']
 answer_list: '/content/drive/MyDrive/vqa-rad-dataset/answer_list.json'
 
-vqa_root: /kaggle/input/processed-rad-vqa-dataset/images/'
+vqa_root: '/content/drive/MyDrive/vqa-rad-dataset/images/'
 
 image_res: 384
 batch_size_train: 8
