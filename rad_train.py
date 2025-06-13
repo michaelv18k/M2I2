@@ -155,8 +155,9 @@ def evaluation(model, data_loader, tokenizer, device, config):
     answer_list = [answer + config['eos'] for answer in data_loader.dataset.answer_list]
     answer_input = tokenizer(answer_list, padding='longest', return_tensors='pt').to(device)
 
-    vis_dir = os.path.join(config['output_dir'], "vis")
+    vis_dir = os.path.join(args.output_dir, "vis")
     os.makedirs(vis_dir, exist_ok=True)
+
 
     for n, (image, question, question_id) in enumerate(metric_logger.log_every(data_loader, print_freq, header)):
         image = image.to(device, non_blocking=True)
