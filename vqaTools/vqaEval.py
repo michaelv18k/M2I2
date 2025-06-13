@@ -116,7 +116,8 @@ class VQAEval:
             resAns = self.processDigitArticle(resAns)
 
             gtAns = gts[quesId]['answer']
-            gtAns = gtAns.replace('\n', ' ')
+            # gtAns = gtAns.replace('\n', ' ')
+            gtAns = str(gtAns).replace('\n', ' ')
             gtAns = gtAns.replace('\t', ' ')
             gtAns = gtAns.strip()
             gtAns = self.processPunctuation(gtAns)
