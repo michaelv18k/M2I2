@@ -16,44 +16,44 @@
 # from optim import create_optimizer
 
 
-# def train(model, data_loader, optimizer, tokenizer, epoch, warmup_steps, device, scheduler, config):
-#     model.train()
-#     metric_logger = utils.MetricLogger(delimiter="  ")
-#     metric_logger.add_meter('lr', utils.SmoothedValue(window_size=1, fmt='{value:.6f}'))
-#     metric_logger.add_meter('loss', utils.SmoothedValue(window_size=1, fmt='{value:.4f}'))
+def train(model, data_loader, optimizer, tokenizer, epoch, warmup_steps, device, scheduler, config):
+    model.train()
+    metric_logger = utils.MetricLogger(delimiter="  ")
+    metric_logger.add_meter('lr', utils.SmoothedValue(window_size=1, fmt='{value:.6f}'))
+    metric_logger.add_meter('loss', utils.SmoothedValue(window_size=1, fmt='{value:.4f}'))
 
-#     header = 'Train Epoch: [{}]'.format(epoch)
-#     print_freq = 50
-#     step_size = 100
-#     warmup_iterations = warmup_steps * step_size
+    header = 'Train Epoch: [{}]'.format(epoch)
+    print_freq = 50
+    step_size = 100
+    warmup_iterations = warmup_steps * step_size
 
-#     for i, (image, question, answer, weights, n) in enumerate(metric_logger.log_every(data_loader, print_freq, header)):
-#         image, weights = image.to(device, non_blocking=True), weights.to(device, non_blocking=True)
+    for i, (image, question, answer, weights, n) in enumerate(metric_logger.log_every(data_loader, print_freq, header)):
+        image, weights = image.to(device, non_blocking=True), weights.to(device, non_blocking=True)
 
-#         question_input = tokenizer(question, padding='longest', truncation=True,
-#                                    max_length=25, return_tensors="pt").to(device)
-#         answer_input = tokenizer(answer, padding='longest', return_tensors="pt").to(device)
+        question_input = tokenizer(question, padding='longest', truncation=True,
+                                   max_length=25, return_tensors="pt").to(device)
+        answer_input = tokenizer(answer, padding='longest', return_tensors="pt").to(device)
 
-#         if epoch > 0 or not config['warm_up']:
-#             alpha = config['alpha']
-#         else:
-#             alpha = config['alpha'] * min(1, i / len(data_loader))
+        if epoch > 0 or not config['warm_up']:
+            alpha = config['alpha']
+        else:
+            alpha = config['alpha'] * min(1, i / len(data_loader))
 
-#         loss = model(image, question_input, answer_input, train=True, alpha=alpha, k=n, weights=weights)
+        loss = model(image, question_input, answer_input, train=True, alpha=alpha, k=n, weights=weights)
 
-#         optimizer.zero_grad()
-#         loss.backward()
-#         optimizer.step()
+        optimizer.zero_grad()
+        loss.backward()
+        optimizer.step()
 
-#         metric_logger.update(loss=loss.item())
-#         metric_logger.update(lr=optimizer.param_groups[0]["lr"])
+        metric_logger.update(loss=loss.item())
+        metric_logger.update(lr=optimizer.param_groups[0]["lr"])
 
-#         if epoch == 0 and i % step_size == 0 and i <= warmup_iterations:
-#             scheduler.step(i // step_size)
+        if epoch == 0 and i % step_size == 0 and i <= warmup_iterations:
+            scheduler.step(i // step_size)
 
-#     metric_logger.synchronize_between_processes()
-#     print("Averaged stats:", metric_logger.global_avg())
-#     return {k: "{:.3f}".format(meter.global_avg) for k, meter in metric_logger.meters.items()}
+    metric_logger.synchronize_between_processes()
+    print("Averaged stats:", metric_logger.global_avg())
+    return {k: "{:.3f}".format(meter.global_avg) for k, meter in metric_logger.meters.items()}
 
 
 # @torch.no_grad()
