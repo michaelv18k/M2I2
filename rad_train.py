@@ -1,19 +1,19 @@
-# import argparse
-# import os
-# import ruamel.yaml as yaml
-# import time
-# import datetime
-# import json
-# from pathlib import Path
-# import torch
-# from models.model_vqa import M2I2
-# from models.vit import interpolate_pos_embed
-# from models.tokenization_bert import BertTokenizer
-# import utils
-# from dataset.utils import save_result
-# from dataset import create_dataset, create_sampler, create_loader, vqa_collate_fn
-# from scheduler import create_scheduler
-# from optim import create_optimizer
+import argparse
+import os
+import ruamel.yaml as yaml
+import time
+import datetime
+import json
+from pathlib import Path
+import torch
+from models.model_vqa import M2I2
+from models.vit import interpolate_pos_embed
+from models.tokenization_bert import BertTokenizer
+import utils
+from dataset.utils import save_result
+from dataset import create_dataset, create_sampler, create_loader, vqa_collate_fn
+from scheduler import create_scheduler
+from optim import create_optimizer
 
 
 def train(model, data_loader, optimizer, tokenizer, epoch, warmup_steps, device, scheduler, config):
@@ -56,97 +56,10 @@ def train(model, data_loader, optimizer, tokenizer, epoch, warmup_steps, device,
     return {k: "{:.3f}".format(meter.global_avg) for k, meter in metric_logger.meters.items()}
 
 
-# @torch.no_grad()
-# def evaluation(model, data_loader, tokenizer, device, config):
-#     config['k_test'] = min(config.get('k_test', 5), 1)  # reduce top-k to 1 to save memory
-#     model.eval()
-#     metric_logger = utils.MetricLogger(delimiter="  ")
-#     header = 'Generate VQA test result:'
-#     print_freq = 50
-#     result = []
-
-#     answer_list = [answer + config['eos'] for answer in data_loader.dataset.answer_list]
-#     answer_input = tokenizer(answer_list, padding='longest', return_tensors='pt').to(device)
-
-#     for n, (image, question, question_id) in enumerate(metric_logger.log_every(data_loader, print_freq, header)):
-#         image = image.to(device, non_blocking=True)
-#         question_input = tokenizer(question, padding='longest', return_tensors="pt").to(device)
-
-#         torch.cuda.empty_cache()
-#         topk_ids, topk_probs = model(image, question_input, answer_input, train=False, k=config['k_test'])
-#         torch.cuda.empty_cache()
-
-#         for ques_id, topk_id, topk_prob in zip(question_id, topk_ids, topk_probs):
-#             ques_id = int(ques_id.item())
-#             _, pred = topk_prob.max(dim=0)
-#             result.append({"qid": ques_id, "answer": data_loader.dataset.answer_list[topk_id[pred]]})
-
-#     return result
-
-import argparse
-import os
-import ruamel.yaml as yaml
-import time
-import datetime
-import json
-from pathlib import Path
-import torch
-from models.model_vqa import M2I2
-from models.vit import interpolate_pos_embed
-from models.tokenization_bert import BertTokenizer
-import utils
-from dataset.utils import save_result
-from dataset import create_dataset, create_sampler, create_loader, vqa_collate_fn
-from scheduler import create_scheduler
-from optim import create_optimizer
-import matplotlib.pyplot as plt
-import torchvision.transforms as T
-from PIL import Image
-import numpy as np
-
-
-def visualize_prediction_with_attention(image_tensor, question, answer, attention_map, save_path):
-    image = image_tensor.cpu().squeeze(0)
-    image = T.ToPILImage()(image)
-    image_np = np.array(image).astype(np.float32) / 255.0
-
-    attention_map = attention_map.squeeze().cpu().numpy()
-    attention_map = np.mean(attention_map, axis=0)
-    attention_map = np.maximum(attention_map, 0)
-    attention_map /= attention_map.max() + 1e-8
-    attention_map_resized = np.uint8(255 * attention_map)
-    attention_map_resized = Image.fromarray(attention_map_resized).resize(image.size, resample=Image.BILINEAR)
-    attention_map_resized = np.array(attention_map_resized)
-
-    plt.figure(figsize=(8, 4))
-    plt.subplot(1, 2, 1)
-    plt.imshow(image)
-    plt.title("Original")
-    plt.axis('off')
-
-    plt.subplot(1, 2, 2)
-    plt.imshow(image_np, alpha=0.6)
-    plt.imshow(attention_map_resized, cmap='jet', alpha=0.4)
-    plt.title(f"Q: {question}\nA: {answer}")
-    plt.axis('off')
-    plt.tight_layout()
-    plt.savefig(save_path)
-    plt.close()
-
-
-def enable_attention_saving(model):
-    if hasattr(model, 'text_encoder') and hasattr(model.text_encoder, 'encoder'):
-        for layer in model.text_encoder.encoder.layer:
-            if hasattr(layer, 'crossattention'):
-                layer.crossattention.self.save_attention = True
-
-
 @torch.no_grad()
 def evaluation(model, data_loader, tokenizer, device, config):
-    config['k_test'] = min(config.get('k_test', 5), 1)
+    config['k_test'] = min(config.get('k_test', 5), 1)  # reduce top-k to 1 to save memory
     model.eval()
-    enable_attention_saving(model)
-
     metric_logger = utils.MetricLogger(delimiter="  ")
     header = 'Generate VQA test result:'
     print_freq = 50
@@ -154,9 +67,6 @@ def evaluation(model, data_loader, tokenizer, device, config):
 
     answer_list = [answer + config['eos'] for answer in data_loader.dataset.answer_list]
     answer_input = tokenizer(answer_list, padding='longest', return_tensors='pt').to(device)
-
-    vis_dir = os.path.join(config['output_dir'], "vis")
-    os.makedirs(vis_dir, exist_ok=True)
 
     for n, (image, question, question_id) in enumerate(metric_logger.log_every(data_loader, print_freq, header)):
         image = image.to(device, non_blocking=True)
@@ -166,17 +76,10 @@ def evaluation(model, data_loader, tokenizer, device, config):
         topk_ids, topk_probs = model(image, question_input, answer_input, train=False, k=config['k_test'])
         torch.cuda.empty_cache()
 
-        for idx, (ques_id, topk_id, topk_prob) in enumerate(zip(question_id, topk_ids, topk_probs)):
+        for ques_id, topk_id, topk_prob in zip(question_id, topk_ids, topk_probs):
             ques_id = int(ques_id.item())
             _, pred = topk_prob.max(dim=0)
-            answer_text = data_loader.dataset.answer_list[topk_id[pred]]
-            result.append({"qid": ques_id, "answer": answer_text})
-
-            if idx == 0:
-                attn_map = model.text_encoder.encoder.layer[-1].crossattention.self.get_attention_map()
-                if attn_map is not None:
-                    save_path = os.path.join(vis_dir, f"qid_{ques_id}.png")
-                    visualize_prediction_with_attention(image[0], question[0], answer_text, attn_map, save_path)
+            result.append({"qid": ques_id, "answer": data_loader.dataset.answer_list[topk_id[pred]]})
 
     return result
 
