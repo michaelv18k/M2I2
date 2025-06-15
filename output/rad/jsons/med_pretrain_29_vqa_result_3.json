@@ -1,0 +1,1802 @@
+[
+    {
+        "qid": 680,
+        "answer": "YES"
+    },
+    {
+        "qid": 1508,
+        "answer": "Right"
+    },
+    {
+        "qid": 367,
+        "answer": "Right"
+    },
+    {
+        "qid": 50,
+        "answer": "No"
+    },
+    {
+        "qid": 844,
+        "answer": "No"
+    },
+    {
+        "qid": 362,
+        "answer": "No"
+    },
+    {
+        "qid": 1660,
+        "answer": "No"
+    },
+    {
+        "qid": 1638,
+        "answer": "No"
+    },
+    {
+        "qid": 332,
+        "answer": "No"
+    },
+    {
+        "qid": 2018,
+        "answer": "YES"
+    },
+    {
+        "qid": 2024,
+        "answer": "YES"
+    },
+    {
+        "qid": 316,
+        "answer": "Right"
+    },
+    {
+        "qid": 1534,
+        "answer": "No"
+    },
+    {
+        "qid": 1271,
+        "answer": "Brain"
+    },
+    {
+        "qid": 2022,
+        "answer": "Right"
+    },
+    {
+        "qid": 1791,
+        "answer": "YES"
+    },
+    {
+        "qid": 1810,
+        "answer": "No"
+    },
+    {
+        "qid": 1146,
+        "answer": "No"
+    },
+    {
+        "qid": 1597,
+        "answer": "Right"
+    },
+    {
+        "qid": 724,
+        "answer": "Right"
+    },
+    {
+        "qid": 210,
+        "answer": "PA"
+    },
+    {
+        "qid": 1365,
+        "answer": "No"
+    },
+    {
+        "qid": 2166,
+        "answer": "No"
+    },
+    {
+        "qid": 1396,
+        "answer": "Axial"
+    },
+    {
+        "qid": 430,
+        "answer": "No"
+    },
+    {
+        "qid": 732,
+        "answer": "Right"
+    },
+    {
+        "qid": 1954,
+        "answer": "Right"
+    },
+    {
+        "qid": 1762,
+        "answer": "PA"
+    },
+    {
+        "qid": 1630,
+        "answer": "No"
+    },
+    {
+        "qid": 746,
+        "answer": "Fat"
+    },
+    {
+        "qid": 631,
+        "answer": "No"
+    },
+    {
+        "qid": 85,
+        "answer": "YES"
+    },
+    {
+        "qid": 261,
+        "answer": "YES"
+    },
+    {
+        "qid": 880,
+        "answer": "No"
+    },
+    {
+        "qid": 303,
+        "answer": "Right"
+    },
+    {
+        "qid": 1131,
+        "answer": "No"
+    },
+    {
+        "qid": 1192,
+        "answer": "No"
+    },
+    {
+        "qid": 1909,
+        "answer": "Right"
+    },
+    {
+        "qid": 1709,
+        "answer": "No"
+    },
+    {
+        "qid": 73,
+        "answer": "YES"
+    },
+    {
+        "qid": 1117,
+        "answer": "No"
+    },
+    {
+        "qid": 305,
+        "answer": "YES"
+    },
+    {
+        "qid": 1415,
+        "answer": "MRI"
+    },
+    {
+        "qid": 1808,
+        "answer": "YES"
+    },
+    {
+        "qid": 2041,
+        "answer": "YES"
+    },
+    {
+        "qid": 2176,
+        "answer": "YES"
+    },
+    {
+        "qid": 1926,
+        "answer": "Right"
+    },
+    {
+        "qid": 1148,
+        "answer": "Right"
+    },
+    {
+        "qid": 875,
+        "answer": "Right"
+    },
+    {
+        "qid": 1445,
+        "answer": "Right"
+    },
+    {
+        "qid": 1129,
+        "answer": "No"
+    },
+    {
+        "qid": 904,
+        "answer": "MRI"
+    },
+    {
+        "qid": 1518,
+        "answer": "Right"
+    },
+    {
+        "qid": 330,
+        "answer": "Right"
+    },
+    {
+        "qid": 536,
+        "answer": "Right"
+    },
+    {
+        "qid": 1304,
+        "answer": "Right"
+    },
+    {
+        "qid": 267,
+        "answer": "Right"
+    },
+    {
+        "qid": 1579,
+        "answer": "YES"
+    },
+    {
+        "qid": 683,
+        "answer": "Right"
+    },
+    {
+        "qid": 7,
+        "answer": "No"
+    },
+    {
+        "qid": 90,
+        "answer": "YES"
+    },
+    {
+        "qid": 2154,
+        "answer": "Right"
+    },
+    {
+        "qid": 1698,
+        "answer": "No"
+    },
+    {
+        "qid": 2099,
+        "answer": "YES"
+    },
+    {
+        "qid": 1299,
+        "answer": "Gastrointestinal"
+    },
+    {
+        "qid": 189,
+        "answer": "No"
+    },
+    {
+        "qid": 104,
+        "answer": "YES"
+    },
+    {
+        "qid": 1732,
+        "answer": "CT"
+    },
+    {
+        "qid": 1859,
+        "answer": "MRI"
+    },
+    {
+        "qid": 1854,
+        "answer": "Right"
+    },
+    {
+        "qid": 514,
+        "answer": "No"
+    },
+    {
+        "qid": 1000,
+        "answer": "No"
+    },
+    {
+        "qid": 1035,
+        "answer": "Axial"
+    },
+    {
+        "qid": 540,
+        "answer": "No"
+    },
+    {
+        "qid": 1977,
+        "answer": "No"
+    },
+    {
+        "qid": 1298,
+        "answer": "No"
+    },
+    {
+        "qid": 1407,
+        "answer": "Axial"
+    },
+    {
+        "qid": 416,
+        "answer": "Right"
+    },
+    {
+        "qid": 702,
+        "answer": "Right"
+    },
+    {
+        "qid": 1469,
+        "answer": "No"
+    },
+    {
+        "qid": 431,
+        "answer": "No"
+    },
+    {
+        "qid": 1238,
+        "answer": "YES"
+    },
+    {
+        "qid": 577,
+        "answer": "No"
+    },
+    {
+        "qid": 557,
+        "answer": "Right"
+    },
+    {
+        "qid": 318,
+        "answer": "No"
+    },
+    {
+        "qid": 1133,
+        "answer": "Right"
+    },
+    {
+        "qid": 1520,
+        "answer": "No"
+    },
+    {
+        "qid": 219,
+        "answer": "Right"
+    },
+    {
+        "qid": 1822,
+        "answer": "PA"
+    },
+    {
+        "qid": 236,
+        "answer": "Axial"
+    },
+    {
+        "qid": 2072,
+        "answer": "YES"
+    },
+    {
+        "qid": 275,
+        "answer": "Cystic"
+    },
+    {
+        "qid": 1798,
+        "answer": "YES"
+    },
+    {
+        "qid": 212,
+        "answer": "No"
+    },
+    {
+        "qid": 1358,
+        "answer": "No"
+    },
+    {
+        "qid": 613,
+        "answer": "No"
+    },
+    {
+        "qid": 1135,
+        "answer": "No"
+    },
+    {
+        "qid": 1673,
+        "answer": "No"
+    },
+    {
+        "qid": 1367,
+        "answer": "CT"
+    },
+    {
+        "qid": 16,
+        "answer": "MRI"
+    },
+    {
+        "qid": 2211,
+        "answer": "No"
+    },
+    {
+        "qid": 1339,
+        "answer": "No"
+    },
+    {
+        "qid": 1652,
+        "answer": "YES"
+    },
+    {
+        "qid": 1252,
+        "answer": "YES"
+    },
+    {
+        "qid": 619,
+        "answer": "No"
+    },
+    {
+        "qid": 1440,
+        "answer": "YES"
+    },
+    {
+        "qid": 1112,
+        "answer": "No"
+    },
+    {
+        "qid": 1707,
+        "answer": "No"
+    },
+    {
+        "qid": 897,
+        "answer": "Right"
+    },
+    {
+        "qid": 323,
+        "answer": "Right"
+    },
+    {
+        "qid": 583,
+        "answer": "No"
+    },
+    {
+        "qid": 756,
+        "answer": "YES"
+    },
+    {
+        "qid": 500,
+        "answer": "No"
+    },
+    {
+        "qid": 1800,
+        "answer": "Right"
+    },
+    {
+        "qid": 1968,
+        "answer": "Right"
+    },
+    {
+        "qid": 1804,
+        "answer": "No"
+    },
+    {
+        "qid": 714,
+        "answer": "No"
+    },
+    {
+        "qid": 1911,
+        "answer": "Right"
+    },
+    {
+        "qid": 2170,
+        "answer": "Right"
+    },
+    {
+        "qid": 1938,
+        "answer": "YES"
+    },
+    {
+        "qid": 1036,
+        "answer": "YES"
+    },
+    {
+        "qid": 436,
+        "answer": "No"
+    },
+    {
+        "qid": 1101,
+        "answer": "No"
+    },
+    {
+        "qid": 150,
+        "answer": "No"
+    },
+    {
+        "qid": 204,
+        "answer": "No"
+    },
+    {
+        "qid": 1153,
+        "answer": "YES"
+    },
+    {
+        "qid": 1272,
+        "answer": "No"
+    },
+    {
+        "qid": 2175,
+        "answer": "Right"
+    },
+    {
+        "qid": 19,
+        "answer": "Right"
+    },
+    {
+        "qid": 148,
+        "answer": "No"
+    },
+    {
+        "qid": 1916,
+        "answer": "No"
+    },
+    {
+        "qid": 1539,
+        "answer": "Right"
+    },
+    {
+        "qid": 1902,
+        "answer": "Hypodense"
+    },
+    {
+        "qid": 2103,
+        "answer": "YES"
+    },
+    {
+        "qid": 936,
+        "answer": "Right"
+    },
+    {
+        "qid": 614,
+        "answer": "No"
+    },
+    {
+        "qid": 1321,
+        "answer": "No"
+    },
+    {
+        "qid": 1375,
+        "answer": "YES"
+    },
+    {
+        "qid": 268,
+        "answer": "Right"
+    },
+    {
+        "qid": 810,
+        "answer": "Cerebellum"
+    },
+    {
+        "qid": 2010,
+        "answer": "YES"
+    },
+    {
+        "qid": 488,
+        "answer": "YES"
+    },
+    {
+        "qid": 643,
+        "answer": "Right"
+    },
+    {
+        "qid": 1466,
+        "answer": "Right"
+    },
+    {
+        "qid": 1371,
+        "answer": "No"
+    },
+    {
+        "qid": 2217,
+        "answer": "Right"
+    },
+    {
+        "qid": 534,
+        "answer": "No"
+    },
+    {
+        "qid": 1914,
+        "answer": "Left"
+    },
+    {
+        "qid": 2133,
+        "answer": "Right"
+    },
+    {
+        "qid": 1070,
+        "answer": "CT"
+    },
+    {
+        "qid": 1157,
+        "answer": "No"
+    },
+    {
+        "qid": 1195,
+        "answer": "No"
+    },
+    {
+        "qid": 1346,
+        "answer": "Right"
+    },
+    {
+        "qid": 2187,
+        "answer": "No"
+    },
+    {
+        "qid": 167,
+        "answer": "YES"
+    },
+    {
+        "qid": 1268,
+        "answer": "No"
+    },
+    {
+        "qid": 81,
+        "answer": "No"
+    },
+    {
+        "qid": 1217,
+        "answer": "No"
+    },
+    {
+        "qid": 2198,
+        "answer": "Right"
+    },
+    {
+        "qid": 504,
+        "answer": "YES"
+    },
+    {
+        "qid": 1166,
+        "answer": "Right"
+    },
+    {
+        "qid": 1823,
+        "answer": "Right"
+    },
+    {
+        "qid": 1928,
+        "answer": "Right"
+    },
+    {
+        "qid": 245,
+        "answer": "Fat"
+    },
+    {
+        "qid": 826,
+        "answer": "No"
+    },
+    {
+        "qid": 481,
+        "answer": "No"
+    },
+    {
+        "qid": 2064,
+        "answer": "Right"
+    },
+    {
+        "qid": 1382,
+        "answer": "YES"
+    },
+    {
+        "qid": 139,
+        "answer": "YES"
+    },
+    {
+        "qid": 1218,
+        "answer": "No"
+    },
+    {
+        "qid": 140,
+        "answer": "YES"
+    },
+    {
+        "qid": 380,
+        "answer": "YES"
+    },
+    {
+        "qid": 1743,
+        "answer": "No"
+    },
+    {
+        "qid": 164,
+        "answer": "YES"
+    },
+    {
+        "qid": 1040,
+        "answer": "No"
+    },
+    {
+        "qid": 1967,
+        "answer": "No"
+    },
+    {
+        "qid": 116,
+        "answer": "No"
+    },
+    {
+        "qid": 2109,
+        "answer": "No"
+    },
+    {
+        "qid": 1087,
+        "answer": "No"
+    },
+    {
+        "qid": 1746,
+        "answer": "YES"
+    },
+    {
+        "qid": 1882,
+        "answer": "Axial"
+    },
+    {
+        "qid": 2141,
+        "answer": "Axial"
+    },
+    {
+        "qid": 976,
+        "answer": "Right"
+    },
+    {
+        "qid": 1196,
+        "answer": "No"
+    },
+    {
+        "qid": 2246,
+        "answer": "Right"
+    },
+    {
+        "qid": 117,
+        "answer": "YES"
+    },
+    {
+        "qid": 642,
+        "answer": "Left"
+    },
+    {
+        "qid": 2121,
+        "answer": "Right"
+    },
+    {
+        "qid": 124,
+        "answer": "No"
+    },
+    {
+        "qid": 1110,
+        "answer": "No"
+    },
+    {
+        "qid": 1506,
+        "answer": "YES"
+    },
+    {
+        "qid": 1186,
+        "answer": "No"
+    },
+    {
+        "qid": 119,
+        "answer": "No"
+    },
+    {
+        "qid": 1983,
+        "answer": "Ring enhancing lesion"
+    },
+    {
+        "qid": 445,
+        "answer": "Right"
+    },
+    {
+        "qid": 607,
+        "answer": "No"
+    },
+    {
+        "qid": 388,
+        "answer": "YES"
+    },
+    {
+        "qid": 317,
+        "answer": "Right"
+    },
+    {
+        "qid": 996,
+        "answer": "Right"
+    },
+    {
+        "qid": 1471,
+        "answer": "No"
+    },
+    {
+        "qid": 1355,
+        "answer": "YES"
+    },
+    {
+        "qid": 2193,
+        "answer": "Right"
+    },
+    {
+        "qid": 1604,
+        "answer": "Right"
+    },
+    {
+        "qid": 1496,
+        "answer": "Right"
+    },
+    {
+        "qid": 1960,
+        "answer": "Right"
+    },
+    {
+        "qid": 1426,
+        "answer": "MRI"
+    },
+    {
+        "qid": 866,
+        "answer": "Right"
+    },
+    {
+        "qid": 584,
+        "answer": "No"
+    },
+    {
+        "qid": 931,
+        "answer": "Right"
+    },
+    {
+        "qid": 1607,
+        "answer": "YES"
+    },
+    {
+        "qid": 1605,
+        "answer": "YES"
+    },
+    {
+        "qid": 2027,
+        "answer": "YES"
+    },
+    {
+        "qid": 543,
+        "answer": "YES"
+    },
+    {
+        "qid": 799,
+        "answer": "YES"
+    },
+    {
+        "qid": 4,
+        "answer": "No"
+    },
+    {
+        "qid": 776,
+        "answer": "No"
+    },
+    {
+        "qid": 337,
+        "answer": "CT"
+    },
+    {
+        "qid": 120,
+        "answer": "YES"
+    },
+    {
+        "qid": 1848,
+        "answer": "YES"
+    },
+    {
+        "qid": 821,
+        "answer": "Right"
+    },
+    {
+        "qid": 1770,
+        "answer": "MRI"
+    },
+    {
+        "qid": 437,
+        "answer": "No"
+    },
+    {
+        "qid": 985,
+        "answer": "MRI"
+    },
+    {
+        "qid": 994,
+        "answer": "YES"
+    },
+    {
+        "qid": 832,
+        "answer": "No"
+    },
+    {
+        "qid": 340,
+        "answer": "Right"
+    },
+    {
+        "qid": 484,
+        "answer": "Right"
+    },
+    {
+        "qid": 1738,
+        "answer": "YES"
+    },
+    {
+        "qid": 1543,
+        "answer": "No"
+    },
+    {
+        "qid": 1897,
+        "answer": "No"
+    },
+    {
+        "qid": 191,
+        "answer": "Left"
+    },
+    {
+        "qid": 1984,
+        "answer": "Right"
+    },
+    {
+        "qid": 30,
+        "answer": "No"
+    },
+    {
+        "qid": 1712,
+        "answer": "No"
+    },
+    {
+        "qid": 1107,
+        "answer": "No"
+    },
+    {
+        "qid": 1335,
+        "answer": "Right"
+    },
+    {
+        "qid": 103,
+        "answer": "No"
+    },
+    {
+        "qid": 200,
+        "answer": "No"
+    },
+    {
+        "qid": 1127,
+        "answer": "No"
+    },
+    {
+        "qid": 1753,
+        "answer": "YES"
+    },
+    {
+        "qid": 1764,
+        "answer": "Right"
+    },
+    {
+        "qid": 1654,
+        "answer": "Right"
+    },
+    {
+        "qid": 907,
+        "answer": "YES"
+    },
+    {
+        "qid": 154,
+        "answer": "YES"
+    },
+    {
+        "qid": 1890,
+        "answer": "Right"
+    },
+    {
+        "qid": 1790,
+        "answer": "Axial"
+    },
+    {
+        "qid": 2207,
+        "answer": "Right"
+    },
+    {
+        "qid": 947,
+        "answer": "Right"
+    },
+    {
+        "qid": 570,
+        "answer": "Right"
+    },
+    {
+        "qid": 751,
+        "answer": "Right"
+    },
+    {
+        "qid": 2238,
+        "answer": "Right"
+    },
+    {
+        "qid": 574,
+        "answer": "YES"
+    },
+    {
+        "qid": 1837,
+        "answer": "YES"
+    },
+    {
+        "qid": 2067,
+        "answer": "Right"
+    },
+    {
+        "qid": 784,
+        "answer": "Ring enhancing lesion"
+    },
+    {
+        "qid": 1018,
+        "answer": "YES"
+    },
+    {
+        "qid": 447,
+        "answer": "Right"
+    },
+    {
+        "qid": 1389,
+        "answer": "No"
+    },
+    {
+        "qid": 1649,
+        "answer": "No"
+    },
+    {
+        "qid": 248,
+        "answer": "No"
+    },
+    {
+        "qid": 403,
+        "answer": "Right"
+    },
+    {
+        "qid": 221,
+        "answer": "Right"
+    },
+    {
+        "qid": 1912,
+        "answer": "Right"
+    },
+    {
+        "qid": 1683,
+        "answer": "No"
+    },
+    {
+        "qid": 1734,
+        "answer": "Right"
+    },
+    {
+        "qid": 1451,
+        "answer": "No"
+    },
+    {
+        "qid": 1765,
+        "answer": "YES"
+    },
+    {
+        "qid": 397,
+        "answer": "No"
+    },
+    {
+        "qid": 386,
+        "answer": "Right"
+    },
+    {
+        "qid": 779,
+        "answer": "No"
+    },
+    {
+        "qid": 1667,
+        "answer": "Axial"
+    },
+    {
+        "qid": 1937,
+        "answer": "No"
+    },
+    {
+        "qid": 995,
+        "answer": "No"
+    },
+    {
+        "qid": 1936,
+        "answer": "No"
+    },
+    {
+        "qid": 541,
+        "answer": "YES"
+    },
+    {
+        "qid": 877,
+        "answer": "Chest"
+    },
+    {
+        "qid": 1988,
+        "answer": "Right"
+    },
+    {
+        "qid": 1140,
+        "answer": "YES"
+    },
+    {
+        "qid": 974,
+        "answer": "Right"
+    },
+    {
+        "qid": 2083,
+        "answer": "Axial"
+    },
+    {
+        "qid": 1353,
+        "answer": "Right"
+    },
+    {
+        "qid": 128,
+        "answer": "No"
+    },
+    {
+        "qid": 276,
+        "answer": "YES"
+    },
+    {
+        "qid": 937,
+        "answer": "No"
+    },
+    {
+        "qid": 241,
+        "answer": "Right"
+    },
+    {
+        "qid": 290,
+        "answer": "No"
+    },
+    {
+        "qid": 29,
+        "answer": "Axial"
+    },
+    {
+        "qid": 2228,
+        "answer": "No"
+    },
+    {
+        "qid": 942,
+        "answer": "Right"
+    },
+    {
+        "qid": 86,
+        "answer": "YES"
+    },
+    {
+        "qid": 1384,
+        "answer": "Right"
+    },
+    {
+        "qid": 262,
+        "answer": "Right"
+    },
+    {
+        "qid": 920,
+        "answer": "Right"
+    },
+    {
+        "qid": 1015,
+        "answer": "YES"
+    },
+    {
+        "qid": 495,
+        "answer": "Right"
+    },
+    {
+        "qid": 1849,
+        "answer": "MRI"
+    },
+    {
+        "qid": 1794,
+        "answer": "Right"
+    },
+    {
+        "qid": 1529,
+        "answer": "Right"
+    },
+    {
+        "qid": 1634,
+        "answer": "No"
+    },
+    {
+        "qid": 1276,
+        "answer": "Right"
+    },
+    {
+        "qid": 823,
+        "answer": "No"
+    },
+    {
+        "qid": 867,
+        "answer": "No"
+    },
+    {
+        "qid": 1733,
+        "answer": "No"
+    },
+    {
+        "qid": 1085,
+        "answer": "Right"
+    },
+    {
+        "qid": 676,
+        "answer": "No"
+    },
+    {
+        "qid": 1946,
+        "answer": "No"
+    },
+    {
+        "qid": 525,
+        "answer": "No"
+    },
+    {
+        "qid": 515,
+        "answer": "YES"
+    },
+    {
+        "qid": 283,
+        "answer": "No"
+    },
+    {
+        "qid": 1990,
+        "answer": "Right"
+    },
+    {
+        "qid": 350,
+        "answer": "No"
+    },
+    {
+        "qid": 2205,
+        "answer": "Right"
+    },
+    {
+        "qid": 986,
+        "answer": "Right"
+    },
+    {
+        "qid": 237,
+        "answer": "No"
+    },
+    {
+        "qid": 980,
+        "answer": "Right"
+    },
+    {
+        "qid": 1259,
+        "answer": "Right"
+    },
+    {
+        "qid": 1486,
+        "answer": "YES"
+    },
+    {
+        "qid": 458,
+        "answer": "No"
+    },
+    {
+        "qid": 79,
+        "answer": "YES"
+    },
+    {
+        "qid": 2001,
+        "answer": "No"
+    },
+    {
+        "qid": 1327,
+        "answer": "YES"
+    },
+    {
+        "qid": 2,
+        "answer": "No"
+    },
+    {
+        "qid": 661,
+        "answer": "Left"
+    },
+    {
+        "qid": 1531,
+        "answer": "Right"
+    },
+    {
+        "qid": 2148,
+        "answer": "No"
+    },
+    {
+        "qid": 2230,
+        "answer": "Right"
+    },
+    {
+        "qid": 2127,
+        "answer": "No"
+    },
+    {
+        "qid": 1222,
+        "answer": "No"
+    },
+    {
+        "qid": 435,
+        "answer": "No"
+    },
+    {
+        "qid": 2079,
+        "answer": "No"
+    },
+    {
+        "qid": 731,
+        "answer": "Right"
+    },
+    {
+        "qid": 2050,
+        "answer": "Right"
+    },
+    {
+        "qid": 1078,
+        "answer": "Right"
+    },
+    {
+        "qid": 13,
+        "answer": "YES"
+    },
+    {
+        "qid": 1858,
+        "answer": "YES"
+    },
+    {
+        "qid": 647,
+        "answer": "Right"
+    },
+    {
+        "qid": 1780,
+        "answer": "Right"
+    },
+    {
+        "qid": 1202,
+        "answer": "Right"
+    },
+    {
+        "qid": 2247,
+        "answer": "Right"
+    },
+    {
+        "qid": 2222,
+        "answer": "Right"
+    },
+    {
+        "qid": 1092,
+        "answer": "No"
+    },
+    {
+        "qid": 469,
+        "answer": "YES"
+    },
+    {
+        "qid": 47,
+        "answer": "YES"
+    },
+    {
+        "qid": 1029,
+        "answer": "YES"
+    },
+    {
+        "qid": 1917,
+        "answer": "No"
+    },
+    {
+        "qid": 1563,
+        "answer": "No"
+    },
+    {
+        "qid": 1576,
+        "answer": "No"
+    },
+    {
+        "qid": 260,
+        "answer": "Right"
+    },
+    {
+        "qid": 1729,
+        "answer": "No"
+    },
+    {
+        "qid": 655,
+        "answer": "YES"
+    },
+    {
+        "qid": 626,
+        "answer": "YES"
+    },
+    {
+        "qid": 449,
+        "answer": "PA"
+    },
+    {
+        "qid": 192,
+        "answer": "Pancreas"
+    },
+    {
+        "qid": 372,
+        "answer": "No"
+    },
+    {
+        "qid": 2021,
+        "answer": "Right"
+    },
+    {
+        "qid": 2087,
+        "answer": "Right"
+    },
+    {
+        "qid": 566,
+        "answer": "No"
+    },
+    {
+        "qid": 898,
+        "answer": "YES"
+    },
+    {
+        "qid": 1482,
+        "answer": "No"
+    },
+    {
+        "qid": 1635,
+        "answer": "Axial"
+    },
+    {
+        "qid": 1754,
+        "answer": "Axial"
+    },
+    {
+        "qid": 1076,
+        "answer": "Right"
+    },
+    {
+        "qid": 1010,
+        "answer": "Axial"
+    },
+    {
+        "qid": 2242,
+        "answer": "FLAIR"
+    },
+    {
+        "qid": 1084,
+        "answer": "Right"
+    },
+    {
+        "qid": 585,
+        "answer": "YES"
+    },
+    {
+        "qid": 1879,
+        "answer": "No"
+    },
+    {
+        "qid": 1620,
+        "answer": "No"
+    },
+    {
+        "qid": 2044,
+        "answer": "PA"
+    },
+    {
+        "qid": 870,
+        "answer": "Right"
+    },
+    {
+        "qid": 1288,
+        "answer": "Right"
+    },
+    {
+        "qid": 864,
+        "answer": "No"
+    },
+    {
+        "qid": 271,
+        "answer": "No"
+    },
+    {
+        "qid": 1096,
+        "answer": "No"
+    },
+    {
+        "qid": 1643,
+        "answer": "No"
+    },
+    {
+        "qid": 1292,
+        "answer": "YES"
+    },
+    {
+        "qid": 131,
+        "answer": "No"
+    },
+    {
+        "qid": 938,
+        "answer": "No"
+    },
+    {
+        "qid": 229,
+        "answer": "Right"
+    },
+    {
+        "qid": 1328,
+        "answer": "No"
+    },
+    {
+        "qid": 899,
+        "answer": "YES"
+    },
+    {
+        "qid": 1105,
+        "answer": "No"
+    },
+    {
+        "qid": 1554,
+        "answer": "No"
+    },
+    {
+        "qid": 1893,
+        "answer": "Axial"
+    },
+    {
+        "qid": 669,
+        "answer": "No"
+    },
+    {
+        "qid": 1002,
+        "answer": "YES"
+    },
+    {
+        "qid": 700,
+        "answer": "Brain"
+    },
+    {
+        "qid": 292,
+        "answer": "Right"
+    },
+    {
+        "qid": 1093,
+        "answer": "YES"
+    },
+    {
+        "qid": 858,
+        "answer": "Right"
+    },
+    {
+        "qid": 1455,
+        "answer": "MRI"
+    },
+    {
+        "qid": 1516,
+        "answer": "YES"
+    },
+    {
+        "qid": 666,
+        "answer": "No"
+    },
+    {
+        "qid": 1494,
+        "answer": "YES"
+    },
+    {
+        "qid": 1857,
+        "answer": "YES"
+    },
+    {
+        "qid": 2221,
+        "answer": "Hypodense"
+    },
+    {
+        "qid": 2215,
+        "answer": "YES"
+    },
+    {
+        "qid": 413,
+        "answer": "No"
+    },
+    {
+        "qid": 953,
+        "answer": "Right"
+    },
+    {
+        "qid": 326,
+        "answer": "No"
+    },
+    {
+        "qid": 1185,
+        "answer": "No"
+    },
+    {
+        "qid": 933,
+        "answer": "YES"
+    },
+    {
+        "qid": 187,
+        "answer": "YES"
+    },
+    {
+        "qid": 284,
+        "answer": "No"
+    },
+    {
+        "qid": 787,
+        "answer": "No"
+    },
+    {
+        "qid": 1481,
+        "answer": "YES"
+    },
+    {
+        "qid": 1200,
+        "answer": "No"
+    },
+    {
+        "qid": 322,
+        "answer": "Right"
+    },
+    {
+        "qid": 1550,
+        "answer": "Axial"
+    },
+    {
+        "qid": 511,
+        "answer": "No"
+    },
+    {
+        "qid": 2196,
+        "answer": "No"
+    },
+    {
+        "qid": 1881,
+        "answer": "No"
+    },
+    {
+        "qid": 177,
+        "answer": "No"
+    },
+    {
+        "qid": 1083,
+        "answer": "PA"
+    },
+    {
+        "qid": 1408,
+        "answer": "CT"
+    },
+    {
+        "qid": 1470,
+        "answer": "YES"
+    },
+    {
+        "qid": 396,
+        "answer": "No"
+    },
+    {
+        "qid": 1556,
+        "answer": "No"
+    },
+    {
+        "qid": 379,
+        "answer": "Right"
+    },
+    {
+        "qid": 418,
+        "answer": "Right"
+    },
+    {
+        "qid": 1378,
+        "answer": "YES"
+    },
+    {
+        "qid": 881,
+        "answer": "Right"
+    },
+    {
+        "qid": 636,
+        "answer": "No"
+    },
+    {
+        "qid": 1138,
+        "answer": "No"
+    },
+    {
+        "qid": 1393,
+        "answer": "MRI"
+    },
+    {
+        "qid": 1731,
+        "answer": "YES"
+    },
+    {
+        "qid": 653,
+        "answer": "YES"
+    },
+    {
+        "qid": 26,
+        "answer": "PA"
+    },
+    {
+        "qid": 1139,
+        "answer": "YES"
+    },
+    {
+        "qid": 1839,
+        "answer": "YES"
+    },
+    {
+        "qid": 902,
+        "answer": "Contrast"
+    },
+    {
+        "qid": 1718,
+        "answer": "MRI"
+    },
+    {
+        "qid": 814,
+        "answer": "YES"
+    },
+    {
+        "qid": 108,
+        "answer": "No"
+    },
+    {
+        "qid": 2069,
+        "answer": "No"
+    },
+    {
+        "qid": 952,
+        "answer": "Right"
+    },
+    {
+        "qid": 895,
+        "answer": "Right"
+    },
+    {
+        "qid": 383,
+        "answer": "Right"
+    },
+    {
+        "qid": 122,
+        "answer": "YES"
+    },
+    {
+        "qid": 130,
+        "answer": "No"
+    },
+    {
+        "qid": 1728,
+        "answer": "No"
+    },
+    {
+        "qid": 356,
+        "answer": "No"
+    },
+    {
+        "qid": 2233,
+        "answer": "Right"
+    },
+    {
+        "qid": 419,
+        "answer": "No"
+    },
+    {
+        "qid": 571,
+        "answer": "Right"
+    },
+    {
+        "qid": 914,
+        "answer": "No"
+    },
+    {
+        "qid": 1003,
+        "answer": "MRI"
+    },
+    {
+        "qid": 1126,
+        "answer": "No"
+    },
+    {
+        "qid": 102,
+        "answer": "No"
+    },
+    {
+        "qid": 456,
+        "answer": "Right"
+    }
+]

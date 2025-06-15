@@ -1,0 +1,1802 @@
+[
+    {
+        "qid": 680,
+        "answer": "YES"
+    },
+    {
+        "qid": 1508,
+        "answer": "Left"
+    },
+    {
+        "qid": 367,
+        "answer": "Left"
+    },
+    {
+        "qid": 50,
+        "answer": "YES"
+    },
+    {
+        "qid": 844,
+        "answer": "No"
+    },
+    {
+        "qid": 362,
+        "answer": "No"
+    },
+    {
+        "qid": 1660,
+        "answer": "No"
+    },
+    {
+        "qid": 1638,
+        "answer": "No"
+    },
+    {
+        "qid": 332,
+        "answer": "YES"
+    },
+    {
+        "qid": 2018,
+        "answer": "YES"
+    },
+    {
+        "qid": 2024,
+        "answer": "YES"
+    },
+    {
+        "qid": 316,
+        "answer": "Left"
+    },
+    {
+        "qid": 1534,
+        "answer": "No"
+    },
+    {
+        "qid": 1271,
+        "answer": "Hypodense"
+    },
+    {
+        "qid": 2022,
+        "answer": "Spleen"
+    },
+    {
+        "qid": 1791,
+        "answer": "YES"
+    },
+    {
+        "qid": 1810,
+        "answer": "Normal"
+    },
+    {
+        "qid": 1146,
+        "answer": "No"
+    },
+    {
+        "qid": 1597,
+        "answer": "Right"
+    },
+    {
+        "qid": 724,
+        "answer": "Right"
+    },
+    {
+        "qid": 210,
+        "answer": "X-ray"
+    },
+    {
+        "qid": 1365,
+        "answer": "YES"
+    },
+    {
+        "qid": 2166,
+        "answer": "No"
+    },
+    {
+        "qid": 1396,
+        "answer": "Axial"
+    },
+    {
+        "qid": 430,
+        "answer": "No"
+    },
+    {
+        "qid": 732,
+        "answer": "cardiomegaly"
+    },
+    {
+        "qid": 1954,
+        "answer": "Retrocardiac"
+    },
+    {
+        "qid": 1762,
+        "answer": "PA"
+    },
+    {
+        "qid": 1630,
+        "answer": "No"
+    },
+    {
+        "qid": 746,
+        "answer": "Fat"
+    },
+    {
+        "qid": 631,
+        "answer": "No"
+    },
+    {
+        "qid": 85,
+        "answer": "YES"
+    },
+    {
+        "qid": 261,
+        "answer": "No"
+    },
+    {
+        "qid": 880,
+        "answer": "No"
+    },
+    {
+        "qid": 303,
+        "answer": "Right"
+    },
+    {
+        "qid": 1131,
+        "answer": "YES"
+    },
+    {
+        "qid": 1192,
+        "answer": "No"
+    },
+    {
+        "qid": 1909,
+        "answer": "Right"
+    },
+    {
+        "qid": 1709,
+        "answer": "YES"
+    },
+    {
+        "qid": 73,
+        "answer": "No"
+    },
+    {
+        "qid": 1117,
+        "answer": "No"
+    },
+    {
+        "qid": 305,
+        "answer": "YES"
+    },
+    {
+        "qid": 1415,
+        "answer": "MRI"
+    },
+    {
+        "qid": 1808,
+        "answer": "YES"
+    },
+    {
+        "qid": 2041,
+        "answer": "YES"
+    },
+    {
+        "qid": 2176,
+        "answer": "YES"
+    },
+    {
+        "qid": 1926,
+        "answer": "5 cm"
+    },
+    {
+        "qid": 1148,
+        "answer": "Air"
+    },
+    {
+        "qid": 875,
+        "answer": "Left"
+    },
+    {
+        "qid": 1445,
+        "answer": "Cerebellum"
+    },
+    {
+        "qid": 1129,
+        "answer": "No"
+    },
+    {
+        "qid": 904,
+        "answer": "MR - ADC Map"
+    },
+    {
+        "qid": 1518,
+        "answer": "Cerebellum"
+    },
+    {
+        "qid": 330,
+        "answer": "C-T ratio"
+    },
+    {
+        "qid": 536,
+        "answer": "Right"
+    },
+    {
+        "qid": 1304,
+        "answer": "Pineal gland"
+    },
+    {
+        "qid": 267,
+        "answer": "Gallbladder"
+    },
+    {
+        "qid": 1579,
+        "answer": "No"
+    },
+    {
+        "qid": 683,
+        "answer": "parietal and occipital lobes"
+    },
+    {
+        "qid": 7,
+        "answer": "YES"
+    },
+    {
+        "qid": 90,
+        "answer": "YES"
+    },
+    {
+        "qid": 2154,
+        "answer": "Infection"
+    },
+    {
+        "qid": 1698,
+        "answer": "No"
+    },
+    {
+        "qid": 2099,
+        "answer": "YES"
+    },
+    {
+        "qid": 1299,
+        "answer": "Blind loop syndrome"
+    },
+    {
+        "qid": 189,
+        "answer": "YES"
+    },
+    {
+        "qid": 104,
+        "answer": "YES"
+    },
+    {
+        "qid": 1732,
+        "answer": "CT"
+    },
+    {
+        "qid": 1859,
+        "answer": "MRI"
+    },
+    {
+        "qid": 1854,
+        "answer": "Right"
+    },
+    {
+        "qid": 514,
+        "answer": "No"
+    },
+    {
+        "qid": 1000,
+        "answer": "No"
+    },
+    {
+        "qid": 1035,
+        "answer": "DWI"
+    },
+    {
+        "qid": 540,
+        "answer": "No"
+    },
+    {
+        "qid": 1977,
+        "answer": "No"
+    },
+    {
+        "qid": 1298,
+        "answer": "No"
+    },
+    {
+        "qid": 1407,
+        "answer": "Brain"
+    },
+    {
+        "qid": 416,
+        "answer": "Left"
+    },
+    {
+        "qid": 702,
+        "answer": "Air"
+    },
+    {
+        "qid": 1469,
+        "answer": "No"
+    },
+    {
+        "qid": 431,
+        "answer": "YES"
+    },
+    {
+        "qid": 1238,
+        "answer": "YES"
+    },
+    {
+        "qid": 577,
+        "answer": "Parasitic"
+    },
+    {
+        "qid": 557,
+        "answer": "Female"
+    },
+    {
+        "qid": 318,
+        "answer": "YES"
+    },
+    {
+        "qid": 1133,
+        "answer": "Chest"
+    },
+    {
+        "qid": 1520,
+        "answer": "No"
+    },
+    {
+        "qid": 219,
+        "answer": "Left"
+    },
+    {
+        "qid": 1822,
+        "answer": "PA"
+    },
+    {
+        "qid": 236,
+        "answer": "Axial"
+    },
+    {
+        "qid": 2072,
+        "answer": "Aorta"
+    },
+    {
+        "qid": 275,
+        "answer": "Cystic"
+    },
+    {
+        "qid": 1798,
+        "answer": "YES"
+    },
+    {
+        "qid": 212,
+        "answer": "No"
+    },
+    {
+        "qid": 1358,
+        "answer": "Calcification"
+    },
+    {
+        "qid": 613,
+        "answer": "No"
+    },
+    {
+        "qid": 1135,
+        "answer": "YES"
+    },
+    {
+        "qid": 1673,
+        "answer": "No"
+    },
+    {
+        "qid": 1367,
+        "answer": "CT"
+    },
+    {
+        "qid": 16,
+        "answer": "MR - ADC Map"
+    },
+    {
+        "qid": 2211,
+        "answer": "No"
+    },
+    {
+        "qid": 1339,
+        "answer": "No"
+    },
+    {
+        "qid": 1652,
+        "answer": "YES"
+    },
+    {
+        "qid": 1252,
+        "answer": "YES"
+    },
+    {
+        "qid": 619,
+        "answer": "No"
+    },
+    {
+        "qid": 1440,
+        "answer": "YES"
+    },
+    {
+        "qid": 1112,
+        "answer": "No"
+    },
+    {
+        "qid": 1707,
+        "answer": "YES"
+    },
+    {
+        "qid": 897,
+        "answer": "Right"
+    },
+    {
+        "qid": 323,
+        "answer": "Right"
+    },
+    {
+        "qid": 583,
+        "answer": "No"
+    },
+    {
+        "qid": 756,
+        "answer": "YES"
+    },
+    {
+        "qid": 500,
+        "answer": "YES"
+    },
+    {
+        "qid": 1800,
+        "answer": "Right"
+    },
+    {
+        "qid": 1968,
+        "answer": "Left"
+    },
+    {
+        "qid": 1804,
+        "answer": "YES"
+    },
+    {
+        "qid": 714,
+        "answer": "YES"
+    },
+    {
+        "qid": 1911,
+        "answer": "Right"
+    },
+    {
+        "qid": 2170,
+        "answer": "Basal Ganglia"
+    },
+    {
+        "qid": 1938,
+        "answer": "YES"
+    },
+    {
+        "qid": 1036,
+        "answer": "YES"
+    },
+    {
+        "qid": 436,
+        "answer": "YES"
+    },
+    {
+        "qid": 1101,
+        "answer": "No"
+    },
+    {
+        "qid": 150,
+        "answer": "YES"
+    },
+    {
+        "qid": 204,
+        "answer": "YES"
+    },
+    {
+        "qid": 1153,
+        "answer": "No"
+    },
+    {
+        "qid": 1272,
+        "answer": "No"
+    },
+    {
+        "qid": 2175,
+        "answer": "cardiomegaly"
+    },
+    {
+        "qid": 19,
+        "answer": "Left"
+    },
+    {
+        "qid": 148,
+        "answer": "YES"
+    },
+    {
+        "qid": 1916,
+        "answer": "YES"
+    },
+    {
+        "qid": 1539,
+        "answer": "Right"
+    },
+    {
+        "qid": 1902,
+        "answer": "punctate"
+    },
+    {
+        "qid": 2103,
+        "answer": "YES"
+    },
+    {
+        "qid": 936,
+        "answer": "Ring enhancing lesion"
+    },
+    {
+        "qid": 614,
+        "answer": "No"
+    },
+    {
+        "qid": 1321,
+        "answer": "No"
+    },
+    {
+        "qid": 1375,
+        "answer": "No"
+    },
+    {
+        "qid": 268,
+        "answer": "Right"
+    },
+    {
+        "qid": 810,
+        "answer": "Abdomen and pelvis"
+    },
+    {
+        "qid": 2010,
+        "answer": "YES"
+    },
+    {
+        "qid": 488,
+        "answer": "No"
+    },
+    {
+        "qid": 643,
+        "answer": "Ring enhancing lesion"
+    },
+    {
+        "qid": 1466,
+        "answer": "pleural effusion"
+    },
+    {
+        "qid": 1371,
+        "answer": "YES"
+    },
+    {
+        "qid": 2217,
+        "answer": "Calcification"
+    },
+    {
+        "qid": 534,
+        "answer": "No"
+    },
+    {
+        "qid": 1914,
+        "answer": "Caudate, putamen, left parietal"
+    },
+    {
+        "qid": 2133,
+        "answer": "pleural effusion"
+    },
+    {
+        "qid": 1070,
+        "answer": "CT"
+    },
+    {
+        "qid": 1157,
+        "answer": "Less dense"
+    },
+    {
+        "qid": 1195,
+        "answer": "No"
+    },
+    {
+        "qid": 1346,
+        "answer": "Cortical ribbon of right occipital lobe with extension into right posterior temporal lobe"
+    },
+    {
+        "qid": 2187,
+        "answer": "No"
+    },
+    {
+        "qid": 167,
+        "answer": "YES"
+    },
+    {
+        "qid": 1268,
+        "answer": "YES"
+    },
+    {
+        "qid": 81,
+        "answer": "YES"
+    },
+    {
+        "qid": 1217,
+        "answer": "No"
+    },
+    {
+        "qid": 2198,
+        "answer": "Both"
+    },
+    {
+        "qid": 504,
+        "answer": "YES"
+    },
+    {
+        "qid": 1166,
+        "answer": "Left"
+    },
+    {
+        "qid": 1823,
+        "answer": "Both"
+    },
+    {
+        "qid": 1928,
+        "answer": "5 cm"
+    },
+    {
+        "qid": 245,
+        "answer": "Enlarged"
+    },
+    {
+        "qid": 826,
+        "answer": "No"
+    },
+    {
+        "qid": 481,
+        "answer": "No"
+    },
+    {
+        "qid": 2064,
+        "answer": "abcess"
+    },
+    {
+        "qid": 1382,
+        "answer": "YES"
+    },
+    {
+        "qid": 139,
+        "answer": "YES"
+    },
+    {
+        "qid": 1218,
+        "answer": "No"
+    },
+    {
+        "qid": 140,
+        "answer": "YES"
+    },
+    {
+        "qid": 380,
+        "answer": "YES"
+    },
+    {
+        "qid": 1743,
+        "answer": "No"
+    },
+    {
+        "qid": 164,
+        "answer": "YES"
+    },
+    {
+        "qid": 1040,
+        "answer": "No"
+    },
+    {
+        "qid": 1967,
+        "answer": "No"
+    },
+    {
+        "qid": 116,
+        "answer": "No"
+    },
+    {
+        "qid": 2109,
+        "answer": "No"
+    },
+    {
+        "qid": 1087,
+        "answer": "With contrast"
+    },
+    {
+        "qid": 1746,
+        "answer": "No"
+    },
+    {
+        "qid": 1882,
+        "answer": "T2"
+    },
+    {
+        "qid": 2141,
+        "answer": "White matter"
+    },
+    {
+        "qid": 976,
+        "answer": "3.4 cm"
+    },
+    {
+        "qid": 1196,
+        "answer": "Air"
+    },
+    {
+        "qid": 2246,
+        "answer": "Gallbladder"
+    },
+    {
+        "qid": 117,
+        "answer": "YES"
+    },
+    {
+        "qid": 642,
+        "answer": "Ring enhancing lesion"
+    },
+    {
+        "qid": 2121,
+        "answer": "Left"
+    },
+    {
+        "qid": 124,
+        "answer": "YES"
+    },
+    {
+        "qid": 1110,
+        "answer": "No"
+    },
+    {
+        "qid": 1506,
+        "answer": "YES"
+    },
+    {
+        "qid": 1186,
+        "answer": "No"
+    },
+    {
+        "qid": 119,
+        "answer": "No"
+    },
+    {
+        "qid": 1983,
+        "answer": "MS plaques"
+    },
+    {
+        "qid": 445,
+        "answer": "Left"
+    },
+    {
+        "qid": 607,
+        "answer": "YES"
+    },
+    {
+        "qid": 388,
+        "answer": "YES"
+    },
+    {
+        "qid": 317,
+        "answer": "Left"
+    },
+    {
+        "qid": 996,
+        "answer": "Left"
+    },
+    {
+        "qid": 1471,
+        "answer": "YES"
+    },
+    {
+        "qid": 1355,
+        "answer": "YES"
+    },
+    {
+        "qid": 2193,
+        "answer": "Basal Ganglia"
+    },
+    {
+        "qid": 1604,
+        "answer": "X-ray"
+    },
+    {
+        "qid": 1496,
+        "answer": "Upper left"
+    },
+    {
+        "qid": 1960,
+        "answer": "Small bowel"
+    },
+    {
+        "qid": 1426,
+        "answer": "MR - ADC Map"
+    },
+    {
+        "qid": 866,
+        "answer": "R frontal lobe"
+    },
+    {
+        "qid": 584,
+        "answer": "No"
+    },
+    {
+        "qid": 931,
+        "answer": "T2"
+    },
+    {
+        "qid": 1607,
+        "answer": "YES"
+    },
+    {
+        "qid": 1605,
+        "answer": "YES"
+    },
+    {
+        "qid": 2027,
+        "answer": "No"
+    },
+    {
+        "qid": 543,
+        "answer": "YES"
+    },
+    {
+        "qid": 799,
+        "answer": "YES"
+    },
+    {
+        "qid": 4,
+        "answer": "No"
+    },
+    {
+        "qid": 776,
+        "answer": "No"
+    },
+    {
+        "qid": 337,
+        "answer": "X-ray"
+    },
+    {
+        "qid": 120,
+        "answer": "YES"
+    },
+    {
+        "qid": 1848,
+        "answer": "YES"
+    },
+    {
+        "qid": 821,
+        "answer": "Pancreas"
+    },
+    {
+        "qid": 1770,
+        "answer": "FLAIR"
+    },
+    {
+        "qid": 437,
+        "answer": "No"
+    },
+    {
+        "qid": 985,
+        "answer": "T2"
+    },
+    {
+        "qid": 994,
+        "answer": "YES"
+    },
+    {
+        "qid": 832,
+        "answer": "No"
+    },
+    {
+        "qid": 340,
+        "answer": "Right"
+    },
+    {
+        "qid": 484,
+        "answer": "horsehoe kidney"
+    },
+    {
+        "qid": 1738,
+        "answer": "YES"
+    },
+    {
+        "qid": 1543,
+        "answer": "No"
+    },
+    {
+        "qid": 1897,
+        "answer": "Anterior mediastinum"
+    },
+    {
+        "qid": 191,
+        "answer": "Hypodense"
+    },
+    {
+        "qid": 1984,
+        "answer": "Frontal and Occipital"
+    },
+    {
+        "qid": 30,
+        "answer": "No"
+    },
+    {
+        "qid": 1712,
+        "answer": "2.5cm x 1.7cm x 1.6cm"
+    },
+    {
+        "qid": 1107,
+        "answer": "No"
+    },
+    {
+        "qid": 1335,
+        "answer": "Left"
+    },
+    {
+        "qid": 103,
+        "answer": "No"
+    },
+    {
+        "qid": 200,
+        "answer": "YES"
+    },
+    {
+        "qid": 1127,
+        "answer": "No"
+    },
+    {
+        "qid": 1753,
+        "answer": "With contrast"
+    },
+    {
+        "qid": 1764,
+        "answer": "Left"
+    },
+    {
+        "qid": 1654,
+        "answer": "Bilateral"
+    },
+    {
+        "qid": 907,
+        "answer": "YES"
+    },
+    {
+        "qid": 154,
+        "answer": "YES"
+    },
+    {
+        "qid": 1890,
+        "answer": "Aorta"
+    },
+    {
+        "qid": 1790,
+        "answer": "Brain"
+    },
+    {
+        "qid": 2207,
+        "answer": "X-ray"
+    },
+    {
+        "qid": 947,
+        "answer": "Left"
+    },
+    {
+        "qid": 570,
+        "answer": "White matter"
+    },
+    {
+        "qid": 751,
+        "answer": "cardiomegaly"
+    },
+    {
+        "qid": 2238,
+        "answer": " superficial to the patient's skin"
+    },
+    {
+        "qid": 574,
+        "answer": "YES"
+    },
+    {
+        "qid": 1837,
+        "answer": "YES"
+    },
+    {
+        "qid": 2067,
+        "answer": "Calcification"
+    },
+    {
+        "qid": 784,
+        "answer": "Ring enhancing lesion"
+    },
+    {
+        "qid": 1018,
+        "answer": "YES"
+    },
+    {
+        "qid": 447,
+        "answer": "Anterior mediastinum"
+    },
+    {
+        "qid": 1389,
+        "answer": "YES"
+    },
+    {
+        "qid": 1649,
+        "answer": "No"
+    },
+    {
+        "qid": 248,
+        "answer": "No"
+    },
+    {
+        "qid": 403,
+        "answer": "Anterior mediastinum"
+    },
+    {
+        "qid": 221,
+        "answer": "Respiratory \tcardia c\tmusculoskeletal"
+    },
+    {
+        "qid": 1912,
+        "answer": "Right"
+    },
+    {
+        "qid": 1683,
+        "answer": "2.5cm x 1.7cm x 1.6cm"
+    },
+    {
+        "qid": 1734,
+        "answer": "Supine (see air-fluid level)"
+    },
+    {
+        "qid": 1451,
+        "answer": "YES"
+    },
+    {
+        "qid": 1765,
+        "answer": "YES"
+    },
+    {
+        "qid": 397,
+        "answer": "No"
+    },
+    {
+        "qid": 386,
+        "answer": "Less dense"
+    },
+    {
+        "qid": 779,
+        "answer": "YES"
+    },
+    {
+        "qid": 1667,
+        "answer": "Axial"
+    },
+    {
+        "qid": 1937,
+        "answer": "No"
+    },
+    {
+        "qid": 995,
+        "answer": "YES"
+    },
+    {
+        "qid": 1936,
+        "answer": "No"
+    },
+    {
+        "qid": 541,
+        "answer": "No"
+    },
+    {
+        "qid": 877,
+        "answer": "Chest"
+    },
+    {
+        "qid": 1988,
+        "answer": "Right"
+    },
+    {
+        "qid": 1140,
+        "answer": "YES"
+    },
+    {
+        "qid": 974,
+        "answer": "Right"
+    },
+    {
+        "qid": 2083,
+        "answer": "Aorta"
+    },
+    {
+        "qid": 1353,
+        "answer": "distal basilar artery"
+    },
+    {
+        "qid": 128,
+        "answer": "YES"
+    },
+    {
+        "qid": 276,
+        "answer": "YES"
+    },
+    {
+        "qid": 937,
+        "answer": "YES"
+    },
+    {
+        "qid": 241,
+        "answer": "Volume loss"
+    },
+    {
+        "qid": 290,
+        "answer": "YES"
+    },
+    {
+        "qid": 29,
+        "answer": "Axial"
+    },
+    {
+        "qid": 2228,
+        "answer": "No"
+    },
+    {
+        "qid": 942,
+        "answer": "Bilateral"
+    },
+    {
+        "qid": 86,
+        "answer": "YES"
+    },
+    {
+        "qid": 1384,
+        "answer": "Caudate, putamen, left parietal"
+    },
+    {
+        "qid": 262,
+        "answer": "Right"
+    },
+    {
+        "qid": 920,
+        "answer": "Right"
+    },
+    {
+        "qid": 1015,
+        "answer": "YES"
+    },
+    {
+        "qid": 495,
+        "answer": "Right"
+    },
+    {
+        "qid": 1849,
+        "answer": "MRI"
+    },
+    {
+        "qid": 1794,
+        "answer": "Right"
+    },
+    {
+        "qid": 1529,
+        "answer": "5 cm"
+    },
+    {
+        "qid": 1634,
+        "answer": "YES"
+    },
+    {
+        "qid": 1276,
+        "answer": "Left"
+    },
+    {
+        "qid": 823,
+        "answer": "Non-contrast CT"
+    },
+    {
+        "qid": 867,
+        "answer": "YES"
+    },
+    {
+        "qid": 1733,
+        "answer": "No"
+    },
+    {
+        "qid": 1085,
+        "answer": "Cerebellum"
+    },
+    {
+        "qid": 676,
+        "answer": "YES"
+    },
+    {
+        "qid": 1946,
+        "answer": "YES"
+    },
+    {
+        "qid": 525,
+        "answer": "5 cm"
+    },
+    {
+        "qid": 515,
+        "answer": "No"
+    },
+    {
+        "qid": 283,
+        "answer": "YES"
+    },
+    {
+        "qid": 1990,
+        "answer": "Abnormal"
+    },
+    {
+        "qid": 350,
+        "answer": "No"
+    },
+    {
+        "qid": 2205,
+        "answer": "Retrocardiac"
+    },
+    {
+        "qid": 986,
+        "answer": "Left"
+    },
+    {
+        "qid": 237,
+        "answer": "YES"
+    },
+    {
+        "qid": 980,
+        "answer": "sella and suprasellar cistern"
+    },
+    {
+        "qid": 1259,
+        "answer": "Ring enhancing lesion"
+    },
+    {
+        "qid": 1486,
+        "answer": "YES"
+    },
+    {
+        "qid": 458,
+        "answer": "No"
+    },
+    {
+        "qid": 79,
+        "answer": "YES"
+    },
+    {
+        "qid": 2001,
+        "answer": "No"
+    },
+    {
+        "qid": 1327,
+        "answer": "YES"
+    },
+    {
+        "qid": 2,
+        "answer": "No"
+    },
+    {
+        "qid": 661,
+        "answer": "Anterior mediastinum"
+    },
+    {
+        "qid": 1531,
+        "answer": "Adipose tissue"
+    },
+    {
+        "qid": 2148,
+        "answer": "No"
+    },
+    {
+        "qid": 2230,
+        "answer": "Bilateral"
+    },
+    {
+        "qid": 2127,
+        "answer": "No"
+    },
+    {
+        "qid": 1222,
+        "answer": "No"
+    },
+    {
+        "qid": 435,
+        "answer": "No"
+    },
+    {
+        "qid": 2079,
+        "answer": "No"
+    },
+    {
+        "qid": 731,
+        "answer": "cardiomegaly"
+    },
+    {
+        "qid": 2050,
+        "answer": "L2"
+    },
+    {
+        "qid": 1078,
+        "answer": "Right"
+    },
+    {
+        "qid": 13,
+        "answer": "YES"
+    },
+    {
+        "qid": 1858,
+        "answer": "YES"
+    },
+    {
+        "qid": 647,
+        "answer": "Mid abdomen"
+    },
+    {
+        "qid": 1780,
+        "answer": "Underneath the right hemidiaphragm"
+    },
+    {
+        "qid": 1202,
+        "answer": "Fat"
+    },
+    {
+        "qid": 2247,
+        "answer": "Fat"
+    },
+    {
+        "qid": 2222,
+        "answer": "embolus"
+    },
+    {
+        "qid": 1092,
+        "answer": "No"
+    },
+    {
+        "qid": 469,
+        "answer": "YES"
+    },
+    {
+        "qid": 47,
+        "answer": "YES"
+    },
+    {
+        "qid": 1029,
+        "answer": "No"
+    },
+    {
+        "qid": 1917,
+        "answer": "YES"
+    },
+    {
+        "qid": 1563,
+        "answer": "No"
+    },
+    {
+        "qid": 1576,
+        "answer": "No"
+    },
+    {
+        "qid": 260,
+        "answer": "Diffuse"
+    },
+    {
+        "qid": 1729,
+        "answer": "No"
+    },
+    {
+        "qid": 655,
+        "answer": "YES"
+    },
+    {
+        "qid": 626,
+        "answer": "No"
+    },
+    {
+        "qid": 449,
+        "answer": "X-ray"
+    },
+    {
+        "qid": 192,
+        "answer": "Gastrointestinal"
+    },
+    {
+        "qid": 372,
+        "answer": "No"
+    },
+    {
+        "qid": 2021,
+        "answer": "Enlarged"
+    },
+    {
+        "qid": 2087,
+        "answer": "Right"
+    },
+    {
+        "qid": 566,
+        "answer": "No"
+    },
+    {
+        "qid": 898,
+        "answer": "YES"
+    },
+    {
+        "qid": 1482,
+        "answer": "No"
+    },
+    {
+        "qid": 1635,
+        "answer": "Axial"
+    },
+    {
+        "qid": 1754,
+        "answer": "Axial"
+    },
+    {
+        "qid": 1076,
+        "answer": "Right"
+    },
+    {
+        "qid": 1010,
+        "answer": "T2"
+    },
+    {
+        "qid": 2242,
+        "answer": "FLAIR"
+    },
+    {
+        "qid": 1084,
+        "answer": "Right"
+    },
+    {
+        "qid": 585,
+        "answer": "YES"
+    },
+    {
+        "qid": 1879,
+        "answer": "Abnormal"
+    },
+    {
+        "qid": 1620,
+        "answer": "No"
+    },
+    {
+        "qid": 2044,
+        "answer": "X-ray"
+    },
+    {
+        "qid": 870,
+        "answer": "Diffuse"
+    },
+    {
+        "qid": 1288,
+        "answer": "Right"
+    },
+    {
+        "qid": 864,
+        "answer": "No"
+    },
+    {
+        "qid": 271,
+        "answer": "No"
+    },
+    {
+        "qid": 1096,
+        "answer": "No"
+    },
+    {
+        "qid": 1643,
+        "answer": "Normal"
+    },
+    {
+        "qid": 1292,
+        "answer": "YES"
+    },
+    {
+        "qid": 131,
+        "answer": "No"
+    },
+    {
+        "qid": 938,
+        "answer": "No"
+    },
+    {
+        "qid": 229,
+        "answer": "Right"
+    },
+    {
+        "qid": 1328,
+        "answer": "No"
+    },
+    {
+        "qid": 899,
+        "answer": "YES"
+    },
+    {
+        "qid": 1105,
+        "answer": "No"
+    },
+    {
+        "qid": 1554,
+        "answer": "In the bowel"
+    },
+    {
+        "qid": 1893,
+        "answer": "Right"
+    },
+    {
+        "qid": 669,
+        "answer": "YES"
+    },
+    {
+        "qid": 1002,
+        "answer": "YES"
+    },
+    {
+        "qid": 700,
+        "answer": "Brain"
+    },
+    {
+        "qid": 292,
+        "answer": "Right"
+    },
+    {
+        "qid": 1093,
+        "answer": "YES"
+    },
+    {
+        "qid": 858,
+        "answer": "Right"
+    },
+    {
+        "qid": 1455,
+        "answer": "MR - ADC Map"
+    },
+    {
+        "qid": 1516,
+        "answer": "YES"
+    },
+    {
+        "qid": 666,
+        "answer": "No"
+    },
+    {
+        "qid": 1494,
+        "answer": "YES"
+    },
+    {
+        "qid": 1857,
+        "answer": "YES"
+    },
+    {
+        "qid": 2221,
+        "answer": "Shrunken and nodular"
+    },
+    {
+        "qid": 2215,
+        "answer": "YES"
+    },
+    {
+        "qid": 413,
+        "answer": "No"
+    },
+    {
+        "qid": 953,
+        "answer": "Hydrocephalus"
+    },
+    {
+        "qid": 326,
+        "answer": "YES"
+    },
+    {
+        "qid": 1185,
+        "answer": "No"
+    },
+    {
+        "qid": 933,
+        "answer": "YES"
+    },
+    {
+        "qid": 187,
+        "answer": "No"
+    },
+    {
+        "qid": 284,
+        "answer": "No"
+    },
+    {
+        "qid": 787,
+        "answer": "No"
+    },
+    {
+        "qid": 1481,
+        "answer": "YES"
+    },
+    {
+        "qid": 1200,
+        "answer": "No"
+    },
+    {
+        "qid": 322,
+        "answer": "Chest"
+    },
+    {
+        "qid": 1550,
+        "answer": "T2"
+    },
+    {
+        "qid": 511,
+        "answer": "No"
+    },
+    {
+        "qid": 2196,
+        "answer": "No"
+    },
+    {
+        "qid": 1881,
+        "answer": "No"
+    },
+    {
+        "qid": 177,
+        "answer": "No"
+    },
+    {
+        "qid": 1083,
+        "answer": "X-ray"
+    },
+    {
+        "qid": 1408,
+        "answer": "Diverticuli"
+    },
+    {
+        "qid": 1470,
+        "answer": "No"
+    },
+    {
+        "qid": 396,
+        "answer": "No"
+    },
+    {
+        "qid": 1556,
+        "answer": "YES"
+    },
+    {
+        "qid": 379,
+        "answer": "Left"
+    },
+    {
+        "qid": 418,
+        "answer": "Enlarged"
+    },
+    {
+        "qid": 1378,
+        "answer": "YES"
+    },
+    {
+        "qid": 881,
+        "answer": "Medial and lateral rectus"
+    },
+    {
+        "qid": 636,
+        "answer": "No"
+    },
+    {
+        "qid": 1138,
+        "answer": "No"
+    },
+    {
+        "qid": 1393,
+        "answer": "MR - ADC Map"
+    },
+    {
+        "qid": 1731,
+        "answer": "YES"
+    },
+    {
+        "qid": 653,
+        "answer": "YES"
+    },
+    {
+        "qid": 26,
+        "answer": "Plain film x-ray"
+    },
+    {
+        "qid": 1139,
+        "answer": "YES"
+    },
+    {
+        "qid": 1839,
+        "answer": "Non-contrast CT"
+    },
+    {
+        "qid": 902,
+        "answer": "Omental caking"
+    },
+    {
+        "qid": 1718,
+        "answer": "MR - ADC Map"
+    },
+    {
+        "qid": 814,
+        "answer": "YES"
+    },
+    {
+        "qid": 108,
+        "answer": "YES"
+    },
+    {
+        "qid": 2069,
+        "answer": "No"
+    },
+    {
+        "qid": 952,
+        "answer": "Hydrocephalus"
+    },
+    {
+        "qid": 895,
+        "answer": "Cardiac region"
+    },
+    {
+        "qid": 383,
+        "answer": "Left"
+    },
+    {
+        "qid": 122,
+        "answer": "YES"
+    },
+    {
+        "qid": 130,
+        "answer": "YES"
+    },
+    {
+        "qid": 1728,
+        "answer": "YES"
+    },
+    {
+        "qid": 356,
+        "answer": "No"
+    },
+    {
+        "qid": 2233,
+        "answer": "Elliptical"
+    },
+    {
+        "qid": 419,
+        "answer": "YES"
+    },
+    {
+        "qid": 571,
+        "answer": "Left"
+    },
+    {
+        "qid": 914,
+        "answer": "YES"
+    },
+    {
+        "qid": 1003,
+        "answer": "T2"
+    },
+    {
+        "qid": 1126,
+        "answer": "No"
+    },
+    {
+        "qid": 102,
+        "answer": "No"
+    },
+    {
+        "qid": 456,
+        "answer": "AP"
+    }
+]
