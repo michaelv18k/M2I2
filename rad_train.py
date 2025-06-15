@@ -132,22 +132,48 @@ def main(args, config):
                 if 'bert' in key:
                     encoder_key = key.replace('bert.', '')
                     state_dict[encoder_key] = state_dict[key]
+                # if 'text_encoder' in key:
+                #     if 'layer' in key:
+                #         encoder_keys = key.split('.')
+                #         layer_num = int(encoder_keys[4])
+
+                #         if layer_num < 6:
+                #             del state_dict[key]
+                #             continue
+                #         else:
+                #             decoder_layer_num = (layer_num - 6)
+                #             encoder_keys[4] = str(decoder_layer_num)
+                #             encoder_key = '.'.join(encoder_keys)
+                #     else:
+                #         encoder_key = key
+                #     decoder_key = encoder_key.replace('text_encoder', 'text_decoder')
+                #     state_dict[decoder_key] = state_dict[key]
+                #     del state_dict[key]
                 if 'text_encoder' in key:
                     if 'layer' in key:
                         encoder_keys = key.split('.')
-                        layer_num = int(encoder_keys[4])
+                        
+                        # Safely try to parse the layer index
+                        try:
+                            layer_num = int(encoder_keys[4])
+                        except (IndexError, ValueError):
+                            print(f"[WARNING] Skipping key due to invalid layer format: {key}")
+                            continue
+
                         if layer_num < 6:
                             del state_dict[key]
                             continue
                         else:
-                            decoder_layer_num = (layer_num - 6)
+                            decoder_layer_num = layer_num - 6
                             encoder_keys[4] = str(decoder_layer_num)
                             encoder_key = '.'.join(encoder_keys)
                     else:
                         encoder_key = key
+
                     decoder_key = encoder_key.replace('text_encoder', 'text_decoder')
                     state_dict[decoder_key] = state_dict[key]
                     del state_dict[key]
+
 
         msg = model.load_state_dict(state_dict, strict=False)
         print('load checkpoint from %s' % args.checkpoint)
